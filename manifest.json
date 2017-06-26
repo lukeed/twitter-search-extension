@@ -1,0 +1,23 @@
+{
+  "name": "Trim Twitter Search Results",
+  "version": "0.0.0",
+  "manifest_version": 2,
+  "description": "Hide the predictive text results in Twitter's search bar.",
+  "homepage_url": "https://github.com/lukeed/twitter-search-extension",
+  "icons": {
+    "128": "icons/128x128.png"
+  },
+  "permissions": [
+    "https://twitter.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://twitter.com/*"
+      ],
+      "css": [
+        "index.css"
+      ]
+    }
+  ]
+}
