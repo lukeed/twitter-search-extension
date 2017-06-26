@@ -9,7 +9,7 @@ This extension hides the lazy-loaded list of predictive / "helpful" text. You'll
 
 ## Install
 
-Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/npm-downloads/gkopjiobbmgaolpocbjnjilaamleimbd) or [manually](http://superuser.com/a/247654/6877).
+Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/trim-twitter-search-resul/clkpgpgblnjiddhjfbihcemkaofaibba) or [manually](http://superuser.com/a/247654/6877).
 
 
 ## Screenshots
