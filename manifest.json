@@ -8,12 +8,14 @@
     "128": "icons/128x128.png"
   },
   "permissions": [
-    "https://twitter.com/*"
+    "https://twitter.com/*",
+    "https://mobile.twitter.com/*"
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://twitter.com/*"
+        "https://twitter.com/*",
+        "https://mobile.twitter.com/*"
       ],
       "css": [
         "index.css"
